@@ -6,6 +6,7 @@ public static void main(String[] args) {
 
 
 try {
+  //adding comment
 
   Class.forName("com.mysql.cj.jdbc.Driver");
 
